@@ -22,5 +22,5 @@ do
         echo "File changed: $versionFile"
 done
 
-echo "Successful change to version $NEW_XF_VERSION"
+echo "Successfully change to version $NEW_XF_VERSION"
 exit 0
